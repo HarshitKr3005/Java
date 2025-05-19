@@ -7,7 +7,7 @@ This repo contains all the Java code snippets, programs, and mini-projects I wri
 
 - Basics of Java (Syntax, Variables, Data Types)
 - Control Structures (if, switch, loops)
-- Object-Oriented Programming (Classes, Objects, Inheritance, Polymorphism)
+- Object-Oriented Programming (Classes, Objects, Inheritance, Polymorphism, Encapsulation, Abstraction)
 - Exception Handling
 - Collections Framework
 - Multithreading
