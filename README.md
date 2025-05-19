@@ -10,8 +10,5 @@ This repo contains all the Java code snippets, programs, and mini-projects I wri
 - Object-Oriented Programming (Classes, Objects, Inheritance, Polymorphism)
 - Exception Handling
 - Collections Framework
-- File I/O
-- Java 8+ Features (Lambdas, Streams)
 - Multithreading
-- JDBC (Database Connectivity)
-- Frameworks (Spring, Hibernate, etc.) 
+
