@@ -38,6 +38,10 @@ public class Transaction_Handling {
                 connection.rollback();
                 System.out.println("Transaction failed.");
             }
+            connection.close();
+            debitPreparedStatement.close();
+            creditPreparedStatement.close();
+            scanner.close();
         } catch (SQLException e) {
             System.out.println(e.getMessage());
         }
@@ -56,6 +60,7 @@ public class Transaction_Handling {
                    return true;
                }
             }
+            resultSet.close();
         } catch (SQLException e) {
             System.out.println(e.getMessage());
         }
